@@ -30,6 +30,7 @@ This Python script merges PDF files found in subdirectories of a specified input
 
 ```bash
 python main.py <input_directory> <output_parent_directory> [--max_files_per_merge MAX_FILES] [--interval INTERVAL]
+```
 
 ## Arguments
 input_directory: Directory containing subdirectories with PDF files to merge.
