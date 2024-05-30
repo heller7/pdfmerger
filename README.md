@@ -11,16 +11,7 @@ This Python script merges PDF files found in subdirectories of a specified input
 - Python 3.x
 - PyPDF2
 
-## Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/pdf-merger-tool.git
-    cd pdf-merger-tool
-    ```
-
-2. Install dependencies:
+## Dependencies
 
     ```bash
     pip install PyPDF2
